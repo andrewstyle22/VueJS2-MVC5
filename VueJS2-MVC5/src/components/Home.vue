@@ -35,8 +35,7 @@ export default {
     height: 100vh;
   }
 
-  #app,
-  .container {
+  #app, .container {
     height: 100%;
   }
 </style>
